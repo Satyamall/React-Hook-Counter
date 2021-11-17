@@ -1,0 +1,28 @@
+
+.header{
+    color: olivedrab;
+}
+
+.counterBox{
+    width: 380px;
+    height: 100px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    margin: auto;
+}
+
+.button{
+    margin: 5px;
+    margin-top: 20px;
+    padding: 5px 10px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+.button:hover{
+    background-color: brown;
+    color: white;
+}
